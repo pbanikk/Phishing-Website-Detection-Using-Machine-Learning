@@ -1,1 +1,2 @@
 # Phishing-Website-Detection-Using-Machine-Learning
+In this project, I used Logictic Regression model to detect if a website is phishing (a form of fraud in which an attacker tries to learn sensitive information from a user) or not with an accuracy of 96%. I used some fake websites from aa419 fake sites database (can be accessed from db.aa419.org) which ascertained the robustness of the aforesaid model.
